@@ -25,4 +25,8 @@ https://mdisk.in.net/convertor/160x67/TUYQzNxp
 
 Premium Course Download Fast
 
+Get all premium resources , video lectures and books of C++ programming language.
+Daily most asked interview questions of some famous companies in C++
+https://t.me/dsacpp
+
 ## Do Checkout my other repositories and don't forget to star ⭐ it
